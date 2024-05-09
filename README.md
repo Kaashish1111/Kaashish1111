@@ -46,8 +46,7 @@ You can click the Preview link to take a look at your changes.
 
   <br/>
 
-  <h3 align="left">🔥   My Stats :</h3>
-
+  
   <br/>
 
   <br/>
