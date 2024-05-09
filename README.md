@@ -50,9 +50,5 @@ You can click the Preview link to take a look at your changes.
 
   <br/>
 
-  <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kashish&theme=dark&hide_total_contributions=true" alt="GitHub Streak" /></a>
-  </div>
-
   <br/>
 
