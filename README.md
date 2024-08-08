@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
   <br/>
   <br/>
 
-  <p align="left">I'm Kashish from India<br><br>- 🔭 I’m a student <br>- 📚 I'm currently learning web devlopment and dsa <br>- ⚡ In my free time I love sing.</p>
+  <p align="left">I'm Kashish from India<br><br>- 🔭 I’m a student <br>- 📚 I'm currently learning web devlopment and dsa <br>- ⚡ In my free time I love singing .</p>
 
  <br/>
 
