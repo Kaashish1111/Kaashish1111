@@ -57,13 +57,6 @@ Building immersive web experiences, solving DSA problems, and learning AI.
 - 🤖 AI Based Projects  
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kaashish1111&show_icons=true&theme=tokyonight"/>
-</p>
-
 ---
 
 ## 🌐 Connect With Me
