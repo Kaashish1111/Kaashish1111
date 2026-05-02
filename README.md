@@ -1,53 +1,78 @@
- 
-<!---
-Kaashish1111/Kaashish1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm Kashish Goyal</h1>
+<h3 align="center">Computer Engineering Student | Creative Frontend Developer | Problem Solver</h3>
 
-  <br/>
+<p align="center">
+Building immersive web experiences, solving DSA problems, and learning AI.
+</p>
 
-  <div align="center">
-    <a href="https://www.linkedin.com/in/kashish-goyal-37a7a0268/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
-    <a href="www.youtube.com/@coding_heist"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
-  </div>
+---
 
- <br/>
-<br/>
+## 🚀 About Me
 
-  <h1 align="center">hey there 👋</h1>
+- 🎓 Computer Engineering Student at Thapar Institute of Engineering and Technology  
+- 💻 Passionate about Frontend Development & Smooth UI/UX  
+- 🌱 Currently learning DSA, OpenCV, NumPy, AI  
+- 🏆 Cleared Reimagine Hackathon & Google Talent Sprint  
+- 🎯 Focused on internships & software engineering growth  
+- ⚡ Love making modern animated websites
 
-<br/>
+---
 
-  <h3 align="left">👩‍💻  About Me</h3>
+## 🛠️ Tech Stack
 
-  <br/>
-  <br/>
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-  <p align="left">I'm Kashish from India<br><br>- 🔭 I’m a student <br>- 📚 I'm currently learning web devlopment and dsa <br>- ⚡ In my free time I love singing .</p>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
- <br/>
+### Animation / Creative Libraries
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Locomotive Scroll](https://img.shields.io/badge/LocomotiveScroll-111111?style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/FramerMotion-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Lenis](https://img.shields.io/badge/Lenis-222222?style=for-the-badge)
 
-  <h3 align="left">🛠 Language and tools</h3>
+### AI / Programming Tools
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-  <br/>
+---
 
-  <div align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a
-  </div>
+## 📌 What I Build
 
-  <br/>
+- 🎨 Animated Websites  
+- ⚡ Smooth Scrolling Experiences  
+- 📱 Responsive Interfaces  
+- 💻 DSA & Coding Solutions  
+- 🤖 AI Based Projects  
 
-  
-  <br/>
+---
 
-  <br/>
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Kaashish1111&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/kashish-goyal-37a7a0268/">LinkedIn</a> •
+<a href="mailto:goyalautoioc@gmail.com">Email</a> •
+<a href="https://github.com/Kaashish1111">GitHub</a>
+
+---
+
+## 💡 Motto
+
+> Design. Animate. Build. Repeat.
 
