@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kashish Goyal</h1>
-<h3 align="center">Computer Engineering Student | Creative Frontend Developer | Problem Solver</h3>
+<h3 align="center">Computer Engineering Student | Developer | Problem Solver</h3>
 
 <p align="center">
 Building immersive web experiences, solving DSA problems, and learning AI.
