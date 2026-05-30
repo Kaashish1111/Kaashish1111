@@ -1,73 +1,93 @@
-<h1 align="center">Hi 👋, I'm Kashish Goyal</h1>
-<h3 align="center">Computer Engineering Student | Developer | Problem Solver</h3>
+# Hi 👋, I'm Kashish Goyal
 
-<p align="center">
-Building immersive web experiences, solving DSA problems, and learning AI.
-</p>
+### Electrical & Computer Engineering Student | AI • Computer Vision • DSP • Human-Centered AI
 
----
-
-## 🚀 About Me
-
-- 🎓 Computer Engineering Student at Thapar Institute of Engineering and Technology  
-- 💻 Passionate about Frontend Development & Smooth UI/UX  
-- 🌱 Currently learning DSA, OpenCV, NumPy, AI  
-- 🏆 Cleared Reimagine Hackathon & Google Talent Sprint  
-- 🎯 Focused on internships & software engineering growth  
-- ⚡ Love making modern animated websites
+Building intelligent systems through machine learning, computer vision, signal processing, and behavioral AI.
 
 ---
 
-## 🛠️ Tech Stack
+# About Me
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+🎓 Electrical & Computer Engineering Student at Thapar Institute of Engineering and Technology
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+💻 Passionate about AI, Computer Vision, Human-Centered AI, and intelligent sensing systems
 
-### Animation / Creative Libraries
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Locomotive Scroll](https://img.shields.io/badge/LocomotiveScroll-111111?style=for-the-badge)
-![Framer Motion](https://img.shields.io/badge/FramerMotion-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Lenis](https://img.shields.io/badge/Lenis-222222?style=for-the-badge)
+ Currently exploring:
 
-### AI / ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
----
+* Digital Signal Processing (DSP)
+* Behavioral & Cognitive AI
+* Eye Tracking & Attention Analysis
+* Machine Learning & Signal Analysis
 
-## 📌 What I Build
+🔬 Working on research-oriented projects involving:
 
-- 🎨 Animated Websites  
-- ⚡ Smooth Scrolling Experiences  
-- 📱 Responsive Interfaces  
-- 💻 DSA & Coding Solutions  
-- 🤖 AI Based Projects  
+* Microplastics Detection using YOLOv8 & OpenCV
+* Explainable AI (XAI)
+* Behavioral sensing and temporal signal analysis
 
----
----
+ Alongside AI research, I have also spent significant time exploring modern frontend development and interactive web experiences using technologies like React, GSAP, Framer Motion, Three.js, and smooth-scrolling systems. I enjoy combining design, animation, and engineering to create immersive user experiences.
 
-## 🌐 Connect With Me
+ Cleared Reimagine Hackathon & Google Talent Sprint
 
-<a href="https://www.linkedin.com/in/kashish-goyal-37a7a0268/">LinkedIn</a> •
-<a href="mailto:goyalautoioc@gmail.com">Email</a> •
-<a href="https://github.com/Kaashish1111">GitHub</a>
+⚡ Interested in combining AI with real-world human behavior, cognition, and interaction understanding
 
 ---
 
-## 💡 Motto
+# 🛠️ Tech Stack
 
-> Design. Animate. Build. Repeat.
+## Languages
+
+C++ • C • Python • JavaScript
+
+---
+
+## AI / ML
+
+OpenCV • NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch • YOLOv8
+
+---
+
+## Signal Processing & Research
+
+DSP Fundamentals • Signal Analysis • Temporal Behavioral Modeling • Cognitive Signal Understanding
+
+---
+
+## Frontend & Creative Development
+
+HTML5 • CSS3 • Tailwind CSS • React • GSAP • Framer Motion • Three.js • Lenis
+
+---
+
+# Current Focus
+
+* Human-Centered AI
+* Behavioral Signal Processing
+* Eye Tracking & Attention Analysis
+* Explainable AI
+* Multimodal Behavioral Analysis
+* Machine Learning Research
+
+---
+
+#  Currently Learning
+
+* Digital Signal Processing
+* Behavioral AI Systems
+* Temporal Signal Analysis
+* Research Methodology
+* Cognitive Computing
+
+---
+
+#  Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/kashishgoyal111/
+* GitHub: https://github.com/Kaashish1111
+
+---
+
+# Motto
+
+> “Signals are everywhere  in behavior, movement, vision, and interaction. Learning how to interpret them is what makes intelligent systems truly human centered.”
 
